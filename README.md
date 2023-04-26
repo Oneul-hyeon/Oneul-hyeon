@@ -8,10 +8,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" />](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe)
-[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" />](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe)
-
-[<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/oneul_hyeon#gh-light-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;"/>](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;"/>](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe) [<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/oneul_hyeon#gh-light-mode-only)
 [<img align="left" alt="Instagram" src="./img/instagram-dark.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/oneul_hyeon#gh-dark-mode-only)
 
 [<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:gusxo3975@naver.com#gh-dark-mode-only)
