@@ -7,4 +7,13 @@
 - 🔥 2023 Goals: Grow up, Work well.
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oneul_hyeon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='40'>](gusxo3975@naver.com)  
+
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe)
+
+[<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/oneul_hyeon#gh-light-mode-only)
+[<img align="left" alt="Instagram" src="./img/instagram-dark.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/oneul_hyeon#gh-dark-mode-only)
+
+[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:gusxo3975@naver.com#gh-dark-mode-only)
+[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:gusxo3975@naver.com#gh-light-mode-only)
+<br>
