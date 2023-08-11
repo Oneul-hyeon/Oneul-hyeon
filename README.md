@@ -1,6 +1,4 @@
 # 🐥 황현태(Hwang,Hyeon Tae) AI Developer
-![Hyeontae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oneul-hyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusxo3975)](https://solved.ac/gusxo3975)
 
 - 🔭 Check out my Portfolio! : https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe
 - 🌱 I'm currently working as the 3rd KT Aivle-School.
@@ -8,6 +6,7 @@
 - 😄 I feel thrilled when I achieve my goals.
 - 🔥 2023 Goals: Grow up, Work well.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusxo3975)](https://solved.ac/gusxo3975)
 
 ### Connect with me:
 
