@@ -6,6 +6,8 @@
 - 😄 I feel thrilled when I achieve my goals.
 - 🔥 2023 Goals: Grow up, Work well.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/gusxo3975@naver.com/)
+
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;"/>](https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe#gh-light-mode-only)
