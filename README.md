@@ -33,7 +33,7 @@
 ## 💻&nbsp;&nbsp;Project
 
 <!-- Project:START -->
-- [Epilogue Of The Day](Proceeding) : Emotion diary-based conversation and music recommendation service.
+- [Epilogue Of The Day](https://github.com/orgs/toy-f-rebellion/repositories) : Emotion diary-based conversation and music recommendation service.
 - [AIVLE-School-FAQ-ChatBot](https://github.com/Oneul-hyeon/AIVLE-School-FAQ-ChatBot) : Aivle School Applicant Counseling Chatbot Service.
 - [Inquiry Type Classification](https://github.com/Oneul-hyeon/Inquiry-Type-Classification) : AIVLE-EDU 1:1 inquiry type classification model based on inquiry content.
 <!-- Project:END -->
