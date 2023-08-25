@@ -26,3 +26,13 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+---
+
+## 💻&nbsp;&nbsp;Project
+
+<!-- Project:START -->
+- [Epilogue Of The Day](Proceeding) : Emotion diary-based conversation and music recommendation service.
+- [AIVLE-School-FAQ-ChatBot](https://github.com/Oneul-hyeon/AIVLE-School-FAQ-ChatBot) : Aivle School Applicant Counseling Chatbot Service.
+- [Inquiry Type Classification](https://github.com/Oneul-hyeon/Inquiry-Type-Classification) : AIVLE-EDU 1:1 inquiry type classification model based on inquiry content.
+<!-- Project:END -->
