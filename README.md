@@ -2,9 +2,9 @@
 
 - 🔭 Check out my Portfolio! : https://oneull.notion.site/AI-444c749313db40ada8219d4acc68acbe
 - 🌱 I am currently working at SoundMind.
-- 👯 I love Natural Language Processing related AI modeling.
+- 👯 I love AI modeling and engineering related to natural language processing..
 - 😄 I feel thrilled when I achieve my goals.
-- 🔥 2024 Goals: Grow up, Work well.
+- 🔥 2025 Goals: Grow up, Work well.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusxo3975)](https://solved.ac/gusxo3975)
 
@@ -30,10 +30,40 @@
 <br />
 <br />
 
-## 💻&nbsp;&nbsp;Project
+## 🚀&nbsp;&nbsp;Experience
 
-<!-- Project:START -->
-- [Epilogue Of The Day](https://github.com/orgs/toy-f-rebellion/repositories) : Emotion diary-based conversation and music recommendation service.
-- [AIVLE-School-FAQ-ChatBot](https://github.com/Oneul-hyeon/AIVLE-School-FAQ-ChatBot) : Aivle School Applicant Counseling Chatbot Service.
-- [Inquiry Type Classification](https://github.com/Oneul-hyeon/Inquiry-Type-Classification) : AIVLE-EDU 1:1 inquiry type classification model based on inquiry content.
-<!-- Project:END -->
+- `서울과학기술대학교 SPL(Signal Processing Lab)`
+    - **2017.10~2019.12**
+    - Sound Localization의 성능 개선에 관한 연구 진행
+    - 학부 연구생
+
+- `54TH RESEARCH WORLD INTERNATIONAL CONFERENCE`
+    - **2018.08**
+    - Sound Localization 논문 발표
+
+- `KT AIVLE SCHOOL AI TRACK 3기`
+    - **2023.01~2023.07**
+    - KT 부트캠프
+
+- `2023년 제 5회 K-디지털 트레이닝 해커톤`
+    - **2023.08~2023.11**
+    - 사용자 일기 기반 감정 분류를 통한 AI 대화 및 음악 추천 서비스
+
+## 💼&nbsp;&nbsp;Works
+
+- `SoundMind`
+    - **2024.03~2025.07**
+    - NLP 및 Speech 분야 연구원
+
+## 🏆&nbsp;&nbsp;Awards
+
+- `2023년 제 5회 K-디지털 트레이닝 해커톤`
+    - 장려상
+
+## 🧾&nbsp;&nbsp;Certificate
+
+- AICE ASSOCIATE
+
+- SQLD
+
+- 정보통신기사
