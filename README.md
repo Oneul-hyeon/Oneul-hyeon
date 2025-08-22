@@ -30,6 +30,16 @@
 <br />
 <br />
 
+## 💼&nbsp;&nbsp;Works
+
+- `SoundMind`
+    - **2024.03~2025.07**
+    - AX 사업본부
+
+- `Eden T&S`
+    - **2025.08~**
+    - AI 전략기술부
+
 ## 🚀&nbsp;&nbsp;Experience
 
 - `서울과학기술대학교 SPL(Signal Processing Lab)`
@@ -48,17 +58,7 @@
 - `2023년 제 5회 K-디지털 트레이닝 해커톤`
     - **2023.08~2023.11**
     - 사용자 일기 기반 감정 분류를 통한 AI 대화 및 음악 추천 서비스
-
-## 💼&nbsp;&nbsp;Works
-
-- `SoundMind`
-    - **2024.03~2025.07**
-    - AX 사업본부
-
-- `Eden T&S`
-    - **2025.08~**
-    - AI 전략기술부
-    - 
+ 
 ## 🏆&nbsp;&nbsp;Awards
 
 - `2023년 제 5회 K-디지털 트레이닝 해커톤`
